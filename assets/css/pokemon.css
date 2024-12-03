@@ -81,7 +81,7 @@
   margin-bottom: -40px;
 }
 
-img {
+.photo img {
   max-height: 200px;
   transform: translateY(-5px);
 }
